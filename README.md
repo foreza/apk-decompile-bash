@@ -11,7 +11,7 @@ Recommended:
 - JD-GUI (for viewing the generated .jar files)
 
 OSX: 
-For ease of usage, move this into /Users/<user>/bin
+For ease of usage, move this into /usr/local/bin with the provided setup.sh filen
 
 To use:
 bash decompile.sh 
